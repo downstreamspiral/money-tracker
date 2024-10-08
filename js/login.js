@@ -13,4 +13,3 @@ function login() {
         errorMessage.textContent = "Invalid username or password!";
     }
 }
-login();
